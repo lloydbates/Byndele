@@ -1,0 +1,6 @@
+## Interface: 70000
+## Title: Byndele
+## Version: 1.0
+EventHandler.lua
+SlashCmdHandler.lua
+Core.lua
