@@ -1,6 +1,9 @@
-## Interface: 70000
+## Interface: 70100
 ## Title: Byndele
 ## Version: 1.0
+## Notes: Random stuff thrown together
+## Author: LloydBates
+## Dependencies:
 EventHandler.lua
 SlashCmdHandler.lua
 Core.lua

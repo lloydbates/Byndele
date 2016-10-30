@@ -16,8 +16,6 @@ end
 
 function Byndele:PLAYER_ENTERING_WORLD()
   -- increase zoom out distance to maximum value 
-  SetCVar('cameraDistanceMaxFactor', 2.6)
+  SetCVar('cameraDistanceMaxZoomFactor', 2.6)
   
-  -- inrease the speed that the camera zooms in and out to maximum value
-  SetCVar('cameraDistanceMoveSpeed', 50)
 end
